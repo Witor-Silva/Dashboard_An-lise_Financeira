@@ -1,0 +1,4 @@
+Este dashboard foi criado para analisar as vendas de uma loja de materias para escritório, os dados utilizados foram retirados do Kaggle.com.
+Utilizei a linguagem DAX para analizar os KPIs de Vendas Brutas, % de Lucro por Venda, Vendas Liquídas e Total de Descontos, utilizando gráficos para analisar
+a porcentagem de Year over Year (YoY) que serve para analisar o faturamento do ano atual com o faturamento do ano anterior para verificar o crescimento anual,
+o Lucro por categoria e o Lucro por Segmento.
